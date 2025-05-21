@@ -1,22 +1,26 @@
-# 📝 React To-Do List App
+# 📝 React To-Do List
 
-A simple and interactive To-Do List application built using **React**. This app allows users to add, delete, and mark tasks as completed. It's a great project to learn the basics of React like components, props, state, and event handling.
+A simple and user-friendly To-Do List application built using React. It allows users to add, delete, and mark tasks as completed. Great for beginners to learn the basics of React and state management.
 
-## 🚀 Features
+## ✨ Features
 
-- ✅ Add new tasks
-- ❌ Delete tasks
-- ✔️ Mark tasks as completed
-- 📦 Clean and modular code with reusable components
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- User-friendly interface
 
----
+## 🚀 Getting Started
 
-## ⚙️ Installation and Setup Guide
+Follow these instructions to set up the project locally on your system.
 
-Follow these steps to install and run the React To-Do List app on your local machine.
+### 📦 Prerequisites
 
-### 1. Clone the Repository
+- Node.js (https://nodejs.org)
+- npm (comes with Node.js)
 
-```bash
-git clone https://github.com/your-username/react-todo-list.git
-cd react-todo-list
+### ⚙️ Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Gowthaman281/To-Do-List.git
+   cd To-Do-List
