@@ -17,6 +17,7 @@ Follow these instructions to set up the project locally on your system.
 
 - Node.js (https://nodejs.org)
 - npm (comes with Node.js)
+- React + Vite (npm create vite@latest react-todo-list -- --template react)
 
 ### ⚙️ Installation
 
