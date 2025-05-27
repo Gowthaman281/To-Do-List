@@ -25,3 +25,7 @@ Follow these instructions to set up the project locally on your system.
    ```bash
    git clone https://github.com/Gowthaman281/To-Do-List.git
    cd To-Do-List
+
+## Screenshot
+![UI](./src/assets/Todo.png)
+![UI](./src/assets/list.png)
